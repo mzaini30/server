@@ -3,5 +3,8 @@
     "json-server": "^0.17.0",
     "tsx": "^3.6.0"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "@vercel/node": "^2.3.1"
+  }
 }
